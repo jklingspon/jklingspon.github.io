@@ -21,5 +21,5 @@ Features:
 - Trajectory prediction and guidance (planned)
 
 
-The codebase for the device service may be obtained from the [eye-in-the-sky github repository](https://github.com/jklingspon/eye-in-the-sky/).
+The codebase and documentation for the device service may be obtained from the [eye-in-the-sky GitHub repository](https://github.com/jklingspon/eye-in-the-sky/).
 SolidWorks part files for the enclosure are hosted on the [eits-cad repository](https://github.com/jklingspon/eits-cad).
